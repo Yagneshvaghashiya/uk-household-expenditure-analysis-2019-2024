@@ -5,7 +5,6 @@
 A comprehensive time series analysis of UK household spending patterns before, during, and after the COVID-19 pandemic. This project analyzes expenditure data from 2019 to 2024 to identify trends, structural changes, and economic impacts on consumer behavior.
 
 **Student:** Yagnesh Vaghashiya
-**Course:** CC7183 Data Analysis and Visualisation  
 **Institution:** London Metropolitan University  
 **Supervisor:** Dr. Subeksha Shrestha
 
