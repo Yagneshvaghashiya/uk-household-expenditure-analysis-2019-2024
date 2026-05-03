@@ -32,12 +32,7 @@ household-expenditure-analysis/
 │   └── Household_Expenses_Over_2019-2024.pbix
 ├── reports/                       # Academic reports and documentation
 │   ├── A_Time_Series_Analysis_of_Household_Expenditure_Patterns.pdf
-│   ├── 25002034_CC7183_Data_Analysis_and_Visualization_Project_Proposal.pdf
-│   └── Coursework_Specification__1_.pdf
-└── documentation/                 # Additional documentation
-    ├── Journal_Template.docx
-    └── Note.docx
-```
+`
 
 ## 📊 Analytical Model
 
@@ -106,21 +101,6 @@ This analysis contributes to:
 2. Box, G.E.P., Jenkins, G.M., & Reinsel, G.C. (2008). *Time Series Analysis: Forecasting and Control*
 3. Madudova, E., & Corejova, T. (2024). *The Issue of Measuring Household Consumption Expenditure*. Economies, 12(1), 9
 4. McKibbin, W., & Fernando, R. (2023). *The Global Economic Impacts of the COVID-19 Pandemic*. Economic Modelling
-
-## 🚀 How to Use This Repository
-
-### View the Analysis:
-1. Download `Household_Expenses_Over_2019-2024.pbix` from the `powerbi/` folder
-2. Open with Power BI Desktop (free download from Microsoft)
-3. Explore interactive dashboards with filters and drill-down capabilities
-
-### Review the Data:
-- Compiled dataset: `data/Main_File_Compile_All_Data_Year_from_2019_to_2024_Expenditure.xlsx`
-- Original ONS files: `raw_data/` folder
-
-### Read the Report:
-- Full analysis: `reports/A_Time_Series_Analysis_of_Household_Expenditure_Patterns.pdf`
-- Project proposal: `reports/25002034_CC7183_Data_Analysis_and_Visualization_Project_Proposal.pdf`
 
 ## 📊 Dashboard Preview
 
